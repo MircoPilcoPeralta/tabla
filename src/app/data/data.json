@@ -1,0 +1,324 @@
+[
+  {
+    "id": "1",
+    "title": "React es como una cerveza",
+    "description": "Nostrud occaecat Lorem labore nostrud nisi dolore amet nisi aute mollit. Cupidatat enim magna deserunt cillum ut elit eiusmod amet tempor qui reprehenderit nisi consectetur. Laborum irure velit reprehenderit consequat exercitation exercitation. Veniam sit laborum mollit eiusmod ex. Lorem enim ex excepteur et. Sunt irure proident deserunt ea qui non fugiat commodo occaecat elit ea non.",
+    "place": "Aula 691A",
+    "date": "2024-03-01T02:28:43.694Z",
+    "durationMins": 60,
+    "tags": ["React", "Web", "JS"],
+    "speakers": [
+      {
+        "name": "Javier Velasco",
+        "photo": "https://pbs.twimg.com/profile_images/378800000678000000/",
+        "biography": "Javier Velasco es un desarrollador de software con más de 10 años de experiencia en el desarrollo de aplicaciones web. Ha trabajado en empresas como IBM, HP, y actualmente en Rackspace. Es un apasionado de la tecnología y le gusta compartir su conocimiento con la comunidad. En su tiempo libre le gusta tocar la guitarra y disfrutar de una buena cerveza."
+      },
+      {
+        "name": "Javier Velasco",
+        "photo": "https://pbs.twimg.com/profile_images/378800000678000000/",
+        "biography": "Javier Velasco es un desarrollador de software con más de 10 años de experiencia en el desarrollo de aplicaciones web. Ha trabajado en empresas como IBM, HP, y actualmente en Rackspace. Es un apasionado de la tecnología y le gusta compartir su conocimiento con la comunidad. En su tiempo libre le gusta tocar la guitarra y disfrutar de una buena cerveza."
+      },
+      {
+        "name": "Javier Velasco",
+        "photo": "https://pbs.twimg.com/profile_images/378800000678000000/",
+        "biography": "Javier Velasco es un desarrollador de software con más de 10 años de experiencia en el desarrollo de aplicaciones web. Ha trabajado en empresas como IBM, HP, y actualmente en Rackspace. Es un apasionado de la tecnología y le gusta compartir su conocimiento con la comunidad. En su tiempo libre le gusta tocar la guitarra y disfrutar de una buena cerveza."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Introducción a Python para Ciencia de Datos",
+    "description": "Ven y aprende los fundamentos de Python aplicados a la ciencia de datos. En este taller, exploraremos conceptos básicos de programación en Python y cómo utilizar sus librerías más populares para análisis de datos. No se requiere experiencia previa en programación.",
+    "place": "Sala 204",
+    "date": "2024-03-10T15:00:00.000Z",
+    "durationMins": 90,
+    "tags": ["Python", "Data Science", "Programming"],
+    "speakers": [
+      {
+        "name": "María González",
+        "photo": "https://example.com/maria_gonzalez.jpg",
+        "biography": "María González es científica de datos con experiencia en la industria de la salud. Ha trabajado en proyectos de análisis de datos para mejorar la toma de decisiones en el ámbito médico. María es una apasionada defensora de la diversidad en STEM y comparte su conocimiento en conferencias y talleres."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Desarrollo de Aplicaciones Móviles con Flutter",
+    "description": "Explora el emocionante mundo de Flutter y descubre cómo desarrollar aplicaciones móviles de manera eficiente y con un solo código base. En este taller práctico, aprenderás los conceptos básicos de Flutter y crearás tu propia aplicación sencilla.",
+    "place": "Aula 512",
+    "date": "2024-03-15T14:30:00.000Z",
+    "durationMins": 120,
+    "tags": ["Flutter", "Mobile Development", "Dart"],
+    "speakers": [
+      {
+        "name": "Alejandro Ramirez",
+        "photo": "https://example.com/alejandro_ramirez.jpg",
+        "biography": "Alejandro Ramirez es un desarrollador de software especializado en el desarrollo de aplicaciones móviles con Flutter y Dart. Con más de 5 años de experiencia, ha trabajado en proyectos que van desde aplicaciones empresariales hasta juegos móviles. Le encanta compartir su pasión por la tecnología con la comunidad."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Inteligencia Artificial en la Vida Cotidiana",
+    "description": "Descubre cómo la inteligencia artificial está transformando nuestra vida diaria. En este evento, exploraremos casos de uso práctico y discutiremos el impacto de la IA en diferentes sectores, desde la salud hasta el entretenimiento.",
+    "place": "Auditorio Principal",
+    "date": "2024-03-20T18:00:00.000Z",
+    "durationMins": 90,
+    "tags": ["AI", "Technology", "Innovation"],
+    "speakers": [
+      {
+        "name": "Ana Rodríguez",
+        "photo": "https://example.com/ana_rodriguez.jpg",
+        "biography": "Ana Rodríguez es una científica de datos y experta en inteligencia artificial. Ha trabajado en proyectos de IA aplicada en diversas industrias y comparte su conocimiento en conferencias internacionales."
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Taller de Seguridad en Aplicaciones Web",
+    "description": "Aprende las mejores prácticas para asegurar tus aplicaciones web contra amenazas comunes. Este taller práctico te guiará a través de técnicas de seguridad, desde la protección contra inyecciones SQL hasta la implementación de medidas de autenticación robustas.",
+    "place": "Sala 301",
+    "date": "2024-03-12T14:00:00.000Z",
+    "durationMins": 120,
+    "tags": ["Web Security", "Cybersecurity", "Programming"],
+    "speakers": [
+      {
+        "name": "Carlos Martínez",
+        "photo": "https://example.com/carlos_martinez.jpg",
+        "biography": "Carlos Martínez es un experto en seguridad informática con amplia experiencia en la protección de aplicaciones web. Actualmente trabaja como consultor de ciberseguridad y comparte su experiencia en conferencias y talleres."
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Blockchain: Más Allá de las Criptomonedas",
+    "description": "Sumérgete en el fascinante mundo de la tecnología blockchain y descubre sus aplicaciones más allá de las criptomonedas. En esta charla, exploraremos contratos inteligentes, descentralización y casos de uso innovadores.",
+    "place": "Sala 112",
+    "date": "2024-03-18T16:30:00.000Z",
+    "durationMins": 75,
+    "tags": ["Blockchain", "Smart Contracts", "Decentralization"],
+    "speakers": [
+      {
+        "name": "Elena López",
+        "photo": "https://example.com/elena_lopez.jpg",
+        "biography": "Elena López es una desarrolladora de blockchain con experiencia en proyectos que van desde aplicaciones financieras hasta soluciones de cadena de suministro. Comparte su pasión por la tecnología en eventos y conferencias."
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Diseño de Experiencia de Usuario (UX) en Aplicaciones Móviles",
+    "description": "Aprende los principios fundamentales del diseño de experiencia de usuario aplicados a aplicaciones móviles. En este taller, exploraremos la importancia del diseño centrado en el usuario y cómo crear interfaces atractivas y funcionales.",
+    "place": "Aula 210",
+    "date": "2024-03-25T11:00:00.000Z",
+    "durationMins": 90,
+    "tags": ["UX Design", "Mobile Apps", "User Interface"]
+  },
+  {
+    "id": "8",
+    "title": "Introducción a la Inteligencia Artificial",
+    "description": "Explora los conceptos básicos de la inteligencia artificial y cómo se aplican en diversos campos. En este taller, aprenderás sobre algoritmos de aprendizaje automático, redes neuronales y aplicaciones prácticas de la IA en la vida cotidiana.",
+    "place": "Sala 403",
+    "date": "2024-04-05T14:00:00.000Z",
+    "durationMins": 120,
+    "tags": ["Artificial Intelligence", "Machine Learning", "AI Applications"]
+  },
+  {
+    "id": "9",
+    "title": "Desarrollo de Aplicaciones Empresariales con Java",
+    "description": "Descubre cómo construir aplicaciones empresariales robustas utilizando el lenguaje de programación Java. En este taller, exploraremos el desarrollo de aplicaciones escalables, seguras y eficientes con Java EE.",
+    "place": "Aula 512",
+    "date": "2024-04-10T10:30:00.000Z",
+    "durationMins": 90,
+    "tags": ["Java", "Enterprise Development", "Programming"]
+  },  
+  {
+    "id": "10",
+    "title": "Optimización de Sitios Web para Motores de Búsqueda (SEO)",
+    "description": "Aprende estrategias y técnicas efectivas para mejorar la visibilidad de tu sitio web en los motores de búsqueda. En este taller práctico, descubrirás cómo realizar investigaciones de palabras clave, optimizar el contenido y mejorar la estructura del sitio para obtener mejores resultados en SEO.",
+    "place": "Sala 201",
+    "date": "2024-04-15T15:00:00.000Z",
+    "durationMins": 90,
+    "tags": ["SEO", "Digital Marketing", "Web Development"]
+  },
+  {
+    "id": "11",
+    "title": "Introducción a la Programación en C++",
+    "description": "Aprende los fundamentos de la programación en C++ y cómo crear programas eficientes y de alto rendimiento. En este taller, exploraremos conceptos como punteros, clases y templates.",
+    "place": "Aula 305",
+    "date": "2024-04-20T09:00:00.000Z",
+    "durationMins": 120,
+    "tags": ["C++", "Programming", "Software Development"]
+  },
+  {
+    "id": "12",
+    "title": "Ciberseguridad en el Entorno Empresarial",
+    "description": "Descubre las mejores prácticas de ciberseguridad para proteger tu empresa contra amenazas cibernéticas. En este evento, exploraremos estrategias de prevención, detección y respuesta a incidentes de seguridad.",
+    "place": "Auditorio Principal",
+    "date": "2024-04-25T13:30:00.000Z",
+    "durationMins": 90,
+    "tags": ["Cybersecurity", "Information Security", "Risk Management"]
+  },
+  {
+    "id": "13",
+    "title": "Desarrollo de Videojuegos con Unity",
+    "description": "Sumérgete en el emocionante mundo del desarrollo de videojuegos con Unity. En este taller práctico, aprenderás a crear juegos 2D y 3D utilizando las herramientas y funcionalidades de Unity.",
+    "place": "Sala 112",
+    "date": "2024-05-02T16:00:00.000Z",
+    "durationMins": 120,
+    "tags": ["Unity", "Game Development", "Graphics"]
+  },
+  {
+    "id": "14",
+    "title": "Introducción a la Ciencia de Datos con R",
+    "description": "Descubre cómo utilizar el lenguaje de programación R para el análisis de datos y la visualización. En este taller, exploraremos conceptos como manipulación de datos, estadísticas y creación de gráficos.",
+    "place": "Sala 201",
+    "date": "2024-05-10T10:00:00.000Z",
+    "durationMins": 90,
+    "tags": ["R", "Data Science", "Statistics"]
+  },
+  {
+    "id": "15",
+    "title": "Desarrollo de Aplicaciones Nativas para iOS",
+    "description": "Aprende a crear aplicaciones nativas para iOS utilizando el lenguaje de programación Swift y el entorno de desarrollo Xcode. En este taller práctico, construirás una aplicación móvil desde cero.",
+    "place": "Aula 401",
+    "date": "2024-05-15T14:00:00.000Z",
+    "durationMins": 120,
+    "tags": ["iOS Development", "Swift", "Mobile Apps"]
+  },
+  {
+    "id": "16",
+    "title": "Introducción a la Robótica",
+    "description": "Explora los conceptos básicos de la robótica y descubre cómo diseñar y programar robots. En este taller, aprenderás sobre sensores, actuadores y algoritmos de control.",
+    "place": "Sala 305",
+    "date": "2024-05-20T11:00:00.000Z",
+    "durationMins": 90,
+    "tags": ["Robotics", "Programming", "Engineering"]
+  },
+  {
+    "id": "17",
+    "title": "Análisis de Sentimientos en Redes Sociales",
+    "description": "Aprende a realizar análisis de sentimientos en datos de redes sociales utilizando técnicas de procesamiento de lenguaje natural. En este taller, exploraremos herramientas y bibliotecas populares para analizar textos en redes sociales.",
+    "place": "Aula 512",
+    "date": "2024-05-25T15:30:00.000Z",
+    "durationMins": 120,
+    "tags": ["Sentiment Analysis", "NLP", "Social Media"]
+  },
+  {
+    "id": "18",
+    "title": "Desarrollo de Aplicaciones Web Progresivas (PWA)",
+    "description": "Descubre cómo crear aplicaciones web progresivas que funcionen sin conexión y se comporten como aplicaciones nativas. En este taller práctico, aprenderás a utilizar las características de las PWA para mejorar la experiencia del usuario.",
+    "place": "Sala 210",
+    "date": "2024-06-01T14:30:00.000Z",
+    "durationMins": 90,
+    "tags": ["PWA", "Web Development", "Frontend"]
+  },
+  {
+    "id": "19",
+    "title": "Seguridad en Dispositivos IoT",
+    "description": "Aprende a asegurar dispositivos IoT contra amenazas de seguridad y ataques cibernéticos. En este taller, exploraremos protocolos de seguridad, técnicas de cifrado y mejores prácticas para proteger la privacidad y la integridad de los datos en dispositivos IoT.",
+    "place": "Aula 403",
+    "date": "2024-06-05T12:00:00.000Z",
+    "durationMins": 120,
+    "tags": ["IoT Security", "Cybersecurity", "Privacy"]
+  },
+  {
+    "id": "20",
+    "title": "Fundamentos de Docker y Contenedores",
+    "description": "Descubre los conceptos básicos de Docker y cómo utilizar contenedores para desarrollar, implementar y gestionar aplicaciones de manera eficiente. En este taller práctico, aprenderás a crear y ejecutar contenedores Docker.",
+    "place": "Sala 112",
+    "date": "2024-06-10T09:30:00.000Z",
+    "durationMins": 90,
+    "tags": ["Docker", "Containerization", "DevOps"]
+  },
+  {
+    "id": "21",
+    "title": "Introducción a la Computación Cuántica",
+    "description": "Explora los fundamentos de la computación cuántica y cómo esta tecnología está revolucionando la informática. En este taller, aprenderás sobre qubits, algoritmos cuánticos y aplicaciones prácticas de la computación cuántica.",
+    "place": "Sala 301",
+    "date": "2024-06-15T15:00:00.000Z",
+    "durationMins": 120,
+    "tags": ["Quantum Computing", "Computational Science", "Future Technologies"]
+  },
+  {
+    "id": "22",
+    "title": "Desarrollo de Aplicaciones Multiplataforma con Xamarin",
+    "description": "Aprende a crear aplicaciones multiplataforma utilizando Xamarin, una herramienta de desarrollo que permite compartir código entre iOS, Android y Windows. En este taller, exploraremos la creación de interfaces de usuario y la integración de servicios en aplicaciones Xamarin.",
+    "place": "Aula 403",
+    "date": "2024-06-20T10:30:00.000Z",
+    "durationMins": 90,
+    "tags": ["Xamarin", "Cross-Platform Development", "Mobile Apps"]
+  },
+  {
+    "id": "23",
+    "title": "Big Data y Análisis de Datos Masivos",
+    "description": "Descubre cómo gestionar y analizar grandes volúmenes de datos utilizando tecnologías de Big Data. En este taller, exploraremos herramientas como Hadoop, Spark y Kafka, y discutiremos estrategias para extraer información valiosa de conjuntos de datos masivos.",
+    "place": "Sala 210",
+    "date": "2024-06-25T14:00:00.000Z",
+    "durationMins": 120,
+    "tags": ["Big Data", "Data Analytics", "Data Engineering"]
+  },
+  {
+    "id": "24",
+    "title": "Desarrollo de Juegos para Realidad Virtual (VR)",
+    "description": "Sumérgete en el mundo de la realidad virtual y aprende a desarrollar juegos inmersivos utilizando tecnologías como Oculus Rift y HTC Vive. En este taller práctico, exploraremos la creación de entornos virtuales, interacciones de usuario y optimización de rendimiento para VR.",
+    "place": "Sala 112",
+    "date": "2024-07-01T16:30:00.000Z",
+    "durationMins": 120,
+    "tags": ["VR Development", "Game Design", "Immersive Technology"]
+  },
+  {
+    "id": "25",
+    "title": "Automatización de Procesos con Python",
+    "description": "Aprende a automatizar tareas repetitivas y procesos de negocio utilizando Python. En este taller, exploraremos bibliotecas como Selenium y Pandas para la automatización de pruebas, extracción de datos y generación de informes.",
+    "place": "Aula 512",
+    "date": "2024-07-05T11:00:00.000Z",
+    "durationMins": 90,
+    "tags": ["Python", "Automation", "Scripting"]
+  },
+  {
+    "id": "26",
+    "title": "Desarrollo de Aplicaciones de Escritorio con Electron",
+    "description": "Descubre cómo crear aplicaciones de escritorio multiplataforma utilizando Electron, un marco de trabajo que utiliza tecnologías web como HTML, CSS y JavaScript. En este taller, aprenderás a construir aplicaciones de escritorio con interfaces de usuario modernas y funcionales.",
+    "place": "Sala 403",
+    "date": "2024-07-10T09:00:00.000Z",
+    "durationMins": 120,
+    "tags": ["Electron", "Desktop Apps", "Web Technologies"]
+  },
+  {
+    "id": "27",
+    "title": "Blockchain y Finanzas Descentralizadas (DeFi)",
+    "description": "Explora cómo la tecnología blockchain está transformando el sector financiero con soluciones descentralizadas. En este evento, discutiremos casos de uso de DeFi, como préstamos, intercambios descentralizados y finanzas autónomas.",
+    "place": "Auditorio Principal",
+    "date": "2024-07-15T13:30:00.000Z",
+    "durationMins": 90,
+    "tags": ["Blockchain", "DeFi", "Finance"]
+  },
+  {
+    "id": "28",
+    "title": "Diseño de Interfaces de Usuario (UI) con Figma",
+    "description": "Aprende a diseñar interfaces de usuario atractivas y funcionales utilizando la herramienta de diseño Figma. En este taller práctico, exploraremos principios de diseño, creación de prototipos y colaboración en equipo con Figma.",
+    "place": "Sala 301",
+    "date": "2024-07-20T14:00:00.000Z",
+    "durationMins": 90,
+    "tags": ["UI Design", "Figma", "Design Tools"]
+  },
+  {
+    "id": "29",
+    "title": "Introducción a la Automatización de Procesos Robóticos (RPA)",
+    "description": "Descubre cómo la automatización de procesos robóticos puede mejorar la eficiencia y la productividad en las organizaciones. En este taller, aprenderás sobre las herramientas y técnicas para implementar RPA en entornos empresariales.",
+    "place": "Aula 210",
+    "date": "2024-07-25T15:30:00.000Z",
+    "durationMins": 120,
+    "tags": ["RPA", "Automation", "Business Processes"]
+  },
+  {
+    "id": "30",
+    "title": "Seguridad en la Nube y Cumplimiento Normativo",
+    "description": "Aprende a asegurar tus datos y aplicaciones en entornos de nube pública y privada. En este taller, exploraremos estrategias de seguridad en la nube, cumplimiento normativo y mejores prácticas para proteger la información sensible.",
+    "place": "Aula 403",
+    "date": "2024-07-30T10:00:00.000Z",
+    "durationMins": 90,
+    "tags": ["Cloud Security", "Compliance", "Data Protection"]
+  }
+]
