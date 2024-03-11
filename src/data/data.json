@@ -1,0 +1,196 @@
+[
+  {
+    "id": "1",
+    "title": "De JavaScript a React.js",
+    "description": "En esta charla veremos como utilizar tus conocimientos de JavaScript en la librería React, una de las librerías más populares para el desarrollo de aplicaciones web. Aparte de aplicar JavaScript en React, abordaremos programación funcional aplicada para la web.",
+    "place": "Auditorio Principal",
+    "startDate": "2023-04-21T14:00:00.000Z",
+    "endDate": "2023-04-21T14:35:00.000Z",
+    "tags": ["JavaScript", "React.js"],
+    "speaker": [
+      {
+        "name": "Fernando Quinteros G.",
+        "photo": "https://i.pravatar.cc/300?c=1",
+        "biography": "Fernando es Frontend Developer y Estudiante de ingeniería informática. Aprendió a programar a los 14 años encontrando inspiración en diferentes comunidades tech. Entre sus tecnologías favoritas se encuentran CSS, JavaScript y React. Pero le gusta aprender otras herramientas para el desarrollo de software en general. Es Miembro Activo de las comunidades GDG Cochabamba, Angular Bolivia y SCESI. Entusiasta de contribuir a comunidades de desarrollo web y tecnología compartiendo su conocimiento, ya sea a través de charlas o mentorías."
+      }
+    ]
+  },
+  {
+    "title": "Michael Willy Echalar Flores Charla online: Como se come ArchLinux",
+    "description": "Cual es la razon de la  existencia de las distros. La filosofía detrás de Debian, Fedora, Manjaro, Arch y Gentoo.El campo de uso de cada una. Ventajas y dificultades de usar Arch, detalle de su uso como plataforma para desarrollar en python. Recomendaciones  sobre como instalar sola y dual boot con windows. Espíritu del software libre. Ultimo punto regocijo general y desconcentracion",
+    "place": "Laboratorio 1",
+    "startDate": "2023-04-21T14:00:00.000Z",
+    "endDate": "2023-04-21T14:35:00.000Z",
+    "tags": ["ArchLinux"],
+    "speaker": [
+      {
+        "name": "Michael Willy Echalar Flores",
+        "photo": "https://i.pravatar.cc/300?c=2",
+        "biography": "Ingeniería civil de profesion actualmente en funciones de docencia en UAJMS. incursionando en el uso de software libre para aplicarlo en la carrera a nivel de formación y profesional. Desarrollador de python para aplicacion en ingeniería civil y ciencia de datos"
+      }
+    ]
+  },
+  {
+    "title": "La aplicación y la filosofía del Software Libre dentro de los espacios educativos.",
+    "description": "Si bien el software libre es un área principalmente tecnológica, sus beneficios no se detienen ahí. De hecho, su aplicación puede ser abordada desde diferentes ámbitos, especialmente en relación con la educación. A menudo, los estudios relacionados con la educación se enfocan en las neurociencias, pero la filosofía del software libre puede ser una estrategia clave para iniciar procesos educativos que permitan disminuir la brecha tecnológica. Esta brecha, contrariamente a lo que se cree, sigue aumentando.",
+    "place": "Laboratorio 2",
+    "startDate": "2023-04-21T14:00:00.000Z",
+    "endDate": "2023-04-21T14:35:00.000Z",
+    "tags": ["Software Libre"],
+    "speaker": [
+      {
+        "name": "Jesus Orlando Reyes Moron",
+        "photo": "https://i.pravatar.cc/300?c=3",
+        "biography": "Si bien el software libre es un área principalmente tecnológica, sus beneficios no se detienen ahí. De hecho, su aplicación puede ser abordada desde diferentes ámbitos, especialmente en relación con la educación. A menudo, los estudios relacionados con la educación se enfocan en las neurociencias, pero la filosofía del software libre puede ser una estrategia clave para iniciar procesos educativos que permitan disminuir la brecha tecnológica. Esta brecha, contrariamente a lo que se cree, sigue aumentando."
+      }
+    ]
+  },
+  {
+    "title": "Android apps para IOS, con KMM",
+    "description": "Kotlin es first class citizen para desarrollar apps en android desde hace algunos años,  y con Kotlin llegaron muchos otros features, entre los cuales están Kotlin Multiplatform que nos permite crear apps que puedan corren en otras plataformas, en esta charla veremos como crear una app para android y portarla a IOS usando Kotlin Multiplatform Mobile (KMM)",
+    "place": "Auditorio Principal",
+    "startDate": "2023-04-21T14:40:00.000Z",
+    "endDate": "2023-04-21T15:15:00.000Z",
+    "tags": ["Android", "IOS", "KMM"],
+    "speaker": [
+      {
+        "name": "Yury Camacho",
+        "photo": "https://i.pravatar.cc/300?c=4",
+        "biography": "Yury Camacho es Ingeniero de Sistemas , orador internacional y Google Developer Expert en Android y Kotlin, Desarrollador experimentado de aplicaciones móviles con  mas de 11 años en la industria del desarrollo de aplicaciones móviles,  orador internacional. Trabajo en Globant, JP Morgan Bank, OLX y  actualmente es Staff Software Engineer y líder técnico del equipo de pagos y fraude en Rappi"
+      }
+    ]
+  },
+  {
+    "title": "Kubernetes sin miedo",
+    "description": "Desmitificación de los conceptos y componentes clave de Kubernetes Estrategias para enfrentar y superar desafíos comunes en la construcción de clústeres (on-premise) Recursos y capacitación para mejorar tus habilidades en Kubernetes Cómo mantenerse actualizado en el cambiante ecosistema de Kubernetes",
+    "place": "Laboratorio 1",
+    "startDate": "2023-04-21T14:40:00.000Z",
+    "endDate": "2023-04-21T16:10:00.000Z",
+    "tags": ["Kubernetes"],
+    "speaker": [
+      {
+        "name": "Enrique Ortuño",
+        "photo": "https://i.pravatar.cc/300?c=5",
+        "biography": "Soy un apasionado desarrollador de software boliviano con una fascinación insaciable por la tecnología. Con una formación académica poco convencional que combina la programación y un posgrado en Psicología, he estado sumergido en el mundo del código desde mi juventud. A lo largo de más de una década, me he comprometido fervientemente con el movimiento del software libre, contribuyendo activamente en diversos proyectos que promueven su adopción y fomentan la colaboración en la comunidad tecnológica. Me considero un ávido aprendiz y me esfuerzo por ampliar mis horizontes cada día. La inteligencia artificial es uno de mis campos de interés predilectos, y estoy convencido de que las máquinas jugarán un papel trascendental en el futuro de nuestra sociedad. Ya sea en el campo de la investigación o la implementación de soluciones tecnológicas, estoy entusiasmado por ser parte de ese emocionante viaje y ayudar a las máquinas a alcanzar su máximo potencial. En tono jocoso, siempre digo que estaré allí para apoyarlas cuando decidan gobernarnos.Mi enfoque multidisciplinario y mi dedicación a la innovación me permiten abordar los problemas desde una perspectiva única, aplicando mis conocimientos de psicología y tecnología para crear soluciones impactantes y transformadoras en nuestra vida cotidiana. Como entusiasta de la tecnología, me enorgullece ser parte de una comunidad que cambia el mundo a través de la creatividad y la colaboración."
+      }
+    ]
+  },
+  {
+    "title": "Vulneración de datos y ciberseguridad",
+    "description": "A través de este taller los participantes aprenderán a identificar peligros existentes y emergentes en su rubro. Así como formas de implementar medidas de seguridad básicas para la protección de sus datos y los de sus clientes. Cómo un plus se desarrollarán algunos puntos sobre innovación en los negocios a través des tecnología, implementación de FINTECH, REGTECH y LEGALTECH.",
+    "place": "Laboratorio 2",
+    "startDate": "2023-04-21T14:40:00.000Z",
+    "endDate": "2023-04-21T16:10:00.000Z",
+    "tags": ["Ciberseguridad"],
+    "speaker": [
+      {
+        "name": "Nicole Angel Sánchez Rojas",
+        "photo": "https://i.pravatar.cc/300?c=13",
+        "biography": "Soy Abogada, máster en Ciberdelincuencia y en propiedad Intelectual y derecho de nuevas tecnologías, cuento con diplomados en Big data Analytics y business intelligence Trabajo como analista de seguridad de la información e implementación de políticas de seguridad. Fiel creyente que la mejor forma de cambiar el país es a través de la enseñanza Panelista en conferencias nacionales e internacionales desde el año 2018 con investigaciones en Derecho informático, ciberseguridad, Metaverso y Legaltech. Miembro de la federación iberoamericana de asociaciones de derecho e informática (FIADI) Miembro de Internet society - Capitulo Bolivia"
+      }
+    ]
+  },
+  {
+    "title": "Fuzzing y ChatGPT: Descubriendo vulnerabilidades y mejorando la seguridad.",
+    "description": "En esta charla se explora cómo utilizar ChatGPT y técnicas de fuzzing para descubrir vulnerabilidades de seguridad en sistemas informáticos.",
+    "place": "Auditorio Principal",
+    "startDate": "2023-04-21T16:10:00.000Z",
+    "endDate": "2023-04-21T16:45:00.000Z",
+    "tags": ["Fuzzing", "ChatGPT", "Seguridad"],
+    "speaker": [
+      {
+        "name": "Cristhian Lima",
+        "photo": "https://i.pravatar.cc/300?c=61",
+        "biography": "Una persona apasionada por la Seguridad informática."
+      }
+    ]
+  },
+  {
+    "title": "Hardware Programming, por donde empezar para no golpearlo cuando no funcione",
+    "description": "Esta charla fue diseñada apta para todo público que desea saber por donde empezar en el mundo del desarrollo de sistemas embebidos, la idea es dar pasos claros y alternativas asequibles a los asistentes, asi como tips para no frustrarse en el camino y sobretodo desarrollar dispositivos divertidos, y por que no verlo como un hobbie o como una potencial fuente de empleo.",
+    "place": "Laboratorio 1",
+    "startDate": "2023-04-21T16:10:00.000Z",
+    "endDate": "2023-04-21T16:45:00.000Z",
+    "tags": ["Hardware Programming"],
+    "speaker": [
+      {
+        "name": "Mauricio Matias Conde",
+        "photo": "https://i.pravatar.cc/300?c=123",
+        "biography": "Hola soy Mauricio, desarrollador Full-Snack, actual miembro de la comunidad HackLab BrickHeads, contribuyo en proyectos open-source, escribo artículos técnicos para dev-academy.com y me gusta compartir mis experiencias"
+      }
+    ]
+  },
+  {
+    "title": "La aventura de crear un videojuego sin saber programar",
+    "description": "¿Podemos crear videojuegos sin tener conocimientos de programación? Claro que es posible, aunque evidentemente tendrás que conocer el software para ello. Gracias a las nuevas tecnologías de hoy en día disponemos de varias herramientas, en este taller te propongo a descubrir conmigo una de las mejores y más interesante opción para crear videojuegos sin saber programar.",
+    "place": "Laboratorio 2",
+    "startDate": "2023-04-21T16:10:00.000Z",
+    "endDate": "2023-04-21T17:25:00.000Z",
+    "tags": ["Videojuegos"],
+    "speaker": [
+      {
+        "name": "Edgar Eucebio Mamani Apaza",
+        "photo": "https://i.pravatar.cc/300?c=654",
+        "biography": "Edgar Eucebio Mamani Apaza Developer Hardware Co-founder de mi MakerHouse - Academia de programación y Robótica Educativa \n Charlas, talleres, conferencias, hackatones y ferias tecnológicas son las actividades en las que participa como expositor y organizador. Freelancer en investigación y desarrollo de proyectos electrónicos con microcontroladores y microprocesadores. Sus área de interés son el diseño digital, robótica educativa, telecomunicaciones, back end e Internet de las Cosas.\n Le gusta compartir y fomentar el aprendizaje de temas relacionados con sistemas embebidos y todo los relacionado con la nuevas tecnologías."
+      }
+    ]
+  },
+  {
+    "title": "007: Con licencia para hackear",
+    "description": "Se hablará sobre cómo se puede hackear al gobierno de manera legal y con recompensas. Comentando recomendaciones básicas para entrar al mundo de la seguridad. Respecto a los conocimientos básicos que se recomendaría de manera general y consejos para las personas que recién van empezando. Así mismo se hablará de cómo las licencias de software libre ayudan a la difusión y creación de nuevas herramientas. Tal es el caso de que realizando este tipo de actividades de ciberseguridad, se llegó a crear una herramienta propia ahora bastante popular ¡Con una licencia de software libre!",
+    "place": "Auditorio Principal",
+    "startDate": "2023-04-21T16:50:00.000Z",
+    "endDate": "2023-04-21T17:25:00.000Z",
+    "tags": ["Hacking"],
+    "speaker": [
+      {
+        "name": "Drayko Escobar",
+        "photo": "https://i.pravatar.cc/300?c=345756",
+        "biography": "Empezó con un gran interés por el área de seguridad desde muy temprana edad, hace más de 8 años. Es especialista en Web Security Testing y Pen testing. Cuenta con varios cursos de especialización en el área de seguridad y certificaciones profesionales provistos por Google y CISCO entre algunas. A lo largo de su trayectoria obtuvo varios premios/reconocimientos en el área de seguridad informática. Es voluntario en análisis de seguridad en sitios web estatales. Realiza análisis de seguridad a empresas y lideró equipos de seguridad en una universidad. Expositor, trainer y mentor en múltiples eventos y organizaciones. Cuenta con proyectos propios de desarrollo de herramientas y gestión de la seguridad de la información. Forma parte del capítulo OWASP en Bolivia y SCESI UMSS."
+      }
+    ]
+  },
+  {
+    "title": "Cómo iniciarse en el desarrollo web: Consejos y trucos para principiantes",
+    "description": "En esta charla se brindarán consejos y trucos esenciales para aquellos que quieren iniciarse en el desarrollo web. Donde se entregaran conocimientos sobre los lenguajes y tecnologías fundamentales del desarrollo web, además de proporcionar recursos en línea para facilitar el aprendizaje y la práctica.",
+    "place": "Laboratorio 1",
+    "startDate": "2023-04-21T16:50:00.000Z",
+    "endDate": "2023-04-21T17:25:00.000Z",
+    "tags": ["Desarrollo Web"],
+    "speaker": [
+      {
+        "name": "Angel Christian Flores Lazarte",
+        "photo": "https://i.pravatar.cc/300?c=876",
+        "biography": "Angel es Frontend Developer y Estudiante de ingeniería de sistemas. Entre sus tecnologías favoritas se encuentran CSS, JavaScript y React. Pero le gusta aprender otras herramientas para el desarrollo de software en general. Es Miembro Activo de la SCESI."
+      }
+    ]
+  },
+  {
+    "title": "Mini-Break (5minutos)",
+    "tags": ["Break"],
+    "place": "anywhere",
+    "startDate": "2023-04-21T14:35:00.000Z",
+    "endDate": "2023-04-21T14:40:00.000Z"
+  },
+  {
+    "title": "Mini-Break (5minutos)",
+    "tags": ["Break"],
+    "place": "Auditorio Principal",
+    "startDate": "2023-04-21T16:45:00.000Z",
+    "endDate": "2023-04-21T16:50:00.000Z"
+  },
+  {
+    "title": "Mini-Break (5minutos)",
+    "tags": ["Break"],
+    "place": "Laboratorio 2",
+    "startDate": "2023-04-21T16:45:00.000Z",
+    "endDate": "2023-04-21T16:50:00.000Z"
+  },
+  {
+    "title": "Almuerzo",
+    "tags": ["Break"],
+    "place": "anywhere",
+    "startDate": "2023-04-21T17:25:00.000Z",
+    "endDate": "2023-04-21T18:00:00.000Z"
+  }
+]

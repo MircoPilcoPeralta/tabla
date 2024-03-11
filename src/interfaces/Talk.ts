@@ -1,16 +1,16 @@
 export interface Talk {
-  id: string
+  id?: string
   title: string
-  description: string
+  description?: string
   place: string
-  date: String
-  durationMins: number
-  tags: string[]
-  speakers?: Speaker[]
+  startDate: string
+  endDate: string
+  tags?: string[]
+  speaker?: Speaker[]
 }
 
 export interface Speaker {
-  name: string
-  photo: string
-  biography: string
+  name?: string
+  photo?: string
+  biography?: string
 }
